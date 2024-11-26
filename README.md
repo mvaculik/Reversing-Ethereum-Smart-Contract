@@ -1,1 +1,3 @@
-# Reversing-Ethereum-Smart-Contract
+# Ethereum/EVM Smart Contract Reverse Engineering & Disassembly - Blockchain Security
+
+Reverse engineering and disassembly of smart contracts in the Ethereum Virtual Machine (EVM) are key techniques used in blockchain application analysis and security. Smart contracts are self-executing programs that reside on the blockchain. Although they provide a transparent environment, their analysis can be challenging when the source code is not available. Reverse engineering of smart contracts is a way to understand what the contract does, how it behaves, and to identify potential vulnerabilities or bugs.
